@@ -1,0 +1,2 @@
+public class ProductArrayWithoutDivision {
+}
